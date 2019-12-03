@@ -11,24 +11,18 @@ class QuotesSpider(scrapy.Spider):
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse) #callback method
 
-    def parse(self, response):
-
-        f= open("data_imdb.txt","w+") #create/open file for save information
+    def parse(self, response):      
 
         for quote in response.css('div.list-preview'): #search for all movies in the list with html's tags
-
-            #print the results in the file
-            f.write( "\n NAME: {} \n META: {}\n\n ============================= " 
-            .format( quote.css('div.list_name a::text').get(),
-                    quote.css('div.list_meta::text').get() ) )
             yield {
-                '==NAME==': quote.css('div.list_name a::text').get(),
-                '==META==': quote.css('div.list_meta::text').get()
+                '==NAME==': quote.css('div.list_name a::text').getall(),
+                '==META==': quote.css('div.list_meta::text').getall(),
             }
-        f.close()
+      
 
         #search for the next result on the next pages
-        next_page = response.css('div.list-pagination a.next-page::attr(href)').get()
+        next_page = response.css('div.list-pagination a.next-page::attr(href)').getall()        
         if next_page is not None:
-            yield response.follow(next_page, callback=self.parse)
+            next_page = response.urljoin(next_page)
+            yield scrapy.Request(next_page, callback=self.parse)
         

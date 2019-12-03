@@ -1,57 +1,505 @@
-NAME: 
-Blu-Ray wants
+
+ NAME: 
+Horreur
  
  META: 
-            a list of 40 titles
+            a list of 38 titles
             
 
- ============================= NAME: 
+ ============================= 
+ NAME: 
+Favorite Films
+ 
+ META: 
+            a list of 65 titles
+            
+
+ ============================= 
+ NAME: 
+MindFùck & Psycho-Thriller
+ 
+ META: 
+            a list of 27 titles
+            
+
+ ============================= 
+ NAME: 
+My Favorite Movies
+ 
+ META: 
+            a list of 30 titles
+            
+
+ ============================= 
+ NAME: 
+Favourites
+ 
+ META: 
+            a list of 24 titles
+            
+
+ ============================= 
+ NAME: 
+Favoritos
+ 
+ META: 
+            a list of 29 titles
+            
+
+ ============================= 
+ NAME: 
+Ebehblech
+ 
+ META: 
+            a list of 21 titles
+            
+
+ ============================= 
+ NAME: 
+My favourite films
+ 
+ META: 
+            a list of 23 titles
+            
+
+ ============================= 
+ NAME: 
+shame we didn't watch it yet
+ 
+ META: 
+            a list of 30 titles
+            
+
+ ============================= 
+ NAME: 
+1970's
+ 
+ META: 
+            a list of 23 titles
+            
+
+ ============================= 
+ NAME: 
+Fright night
+ 
+ META: 
+            a list of 29 titles
+            
+
+ ============================= 
+ NAME: 
+evleneceksengel
+ 
+ META: 
+            a list of 42 titles
+            
+
+ ============================= 
+ NAME: 
 ToWatch
  
  META: 
             a list of 49 titles
             
 
- ============================= NAME: 
+ ============================= 
+ NAME: 
+To_Watch_prio
+ 
+ META: 
+            a list of 34 titles
+            
+
+ ============================= 
+ NAME: 
 Horror To Watch
  
  META: 
             a list of 27 titles
             
 
- ============================= NAME: 
+ ============================= 
+ NAME: 
+The 25 Best Surrealist Movies of All Time
+ 
+ META: 
+            a list of 25 titles
+            
+
+ ============================= 
+ NAME: 
+My Criterion Collection
+ 
+ META: 
+            a list of 40 titles
+            
+
+ ============================= 
+ NAME: 
+Sardonicast reccomendations ranked
+ 
+ META: 
+            a list of 43 titles
+            
+
+ ============================= 
+ NAME: 
+Must Re-Watch
+ 
+ META: 
+            a list of 44 titles
+            
+
+ ============================= 
+ NAME: 
+My 33 Favorite Surreal Arthouse Films
+ 
+ META: 
+            a list of 33 titles
+            
+
+ ============================= 
+ NAME: 
+Favorite Horror Films
+ 
+ META: 
+            a list of 47 titles
+            
+
+ ============================= 
+ NAME: 
+Horreur
+ 
+ META: 
+            a list of 38 titles
+            
+
+ ============================= 
+ NAME: 
 Favorite Films
+ 
+ META: 
+            a list of 65 titles
+            
+
+ ============================= 
+ NAME: 
+MindFùck & Psycho-Thriller
+ 
+ META: 
+            a list of 27 titles
+            
+
+ ============================= 
+ NAME: 
+My Favorite Movies
+ 
+ META: 
+            a list of 30 titles
+            
+
+ ============================= 
+ NAME: 
+Favourites
+ 
+ META: 
+            a list of 24 titles
+            
+
+ ============================= 
+ NAME: 
+Favoritos
+ 
+ META: 
+            a list of 29 titles
+            
+
+ ============================= 
+ NAME: 
+Ebehblech
+ 
+ META: 
+            a list of 21 titles
+            
+
+ ============================= 
+ NAME: 
+My favourite films
+ 
+ META: 
+            a list of 23 titles
+            
+
+ ============================= 
+ NAME: 
+shame we didn't watch it yet
+ 
+ META: 
+            a list of 30 titles
+            
+
+ ============================= 
+ NAME: 
+1970's
+ 
+ META: 
+            a list of 23 titles
+            
+
+ ============================= 
+ NAME: 
+Fright night
+ 
+ META: 
+            a list of 29 titles
+            
+
+ ============================= 
+ NAME: 
+evleneceksengel
  
  META: 
             a list of 42 titles
             
 
- ============================= NAME: 
-1970's
+ ============================= 
+ NAME: 
+ToWatch
  
  META: 
-            a list of 22 titles
+            a list of 49 titles
             
 
- ============================= NAME: 
+ ============================= 
+ NAME: 
+To_Watch_prio
+ 
+ META: 
+            a list of 34 titles
+            
+
+ ============================= 
+ NAME: 
+Horror To Watch
+ 
+ META: 
+            a list of 27 titles
+            
+
+ ============================= 
+ NAME: 
+The 25 Best Surrealist Movies of All Time
+ 
+ META: 
+            a list of 25 titles
+            
+
+ ============================= 
+ NAME: 
+My Criterion Collection
+ 
+ META: 
+            a list of 40 titles
+            
+
+ ============================= 
+ NAME: 
+Sardonicast reccomendations ranked
+ 
+ META: 
+            a list of 43 titles
+            
+
+ ============================= 
+ NAME: 
+Must Re-Watch
+ 
+ META: 
+            a list of 44 titles
+            
+
+ ============================= 
+ NAME: 
+My 33 Favorite Surreal Arthouse Films
+ 
+ META: 
+            a list of 33 titles
+            
+
+ ============================= 
+ NAME: 
 Favorite Horror Films
  
  META: 
-            a list of 31 titles
+            a list of 47 titles
             
 
- ============================= NAME: 
-best of the 70s movies
+ ============================= 
+ NAME: 
+Horreur
  
  META: 
-            a list of 41 titles
+            a list of 38 titles
             
 
- ============================= NAME: 
-za zoju
+ ============================= 
+ NAME: 
+Favorite Films
  
  META: 
-            a list of 35 titles
+            a list of 65 titles
+            
+
+ ============================= 
+ NAME: 
+MindFùck & Psycho-Thriller
+ 
+ META: 
+            a list of 27 titles
+            
+
+ ============================= 
+ NAME: 
+My Favorite Movies
+ 
+ META: 
+            a list of 30 titles
+            
+
+ ============================= 
+ NAME: 
+Favourites
+ 
+ META: 
+            a list of 24 titles
+            
+
+ ============================= 
+ NAME: 
+Favoritos
+ 
+ META: 
+            a list of 29 titles
+            
+
+ ============================= 
+ NAME: 
+Ebehblech
+ 
+ META: 
+            a list of 21 titles
+            
+
+ ============================= 
+ NAME: 
+My favourite films
+ 
+ META: 
+            a list of 23 titles
+            
+
+ ============================= 
+ NAME: 
+shame we didn't watch it yet
+ 
+ META: 
+            a list of 30 titles
+            
+
+ ============================= 
+ NAME: 
+1970's
+ 
+ META: 
+            a list of 23 titles
+            
+
+ ============================= 
+ NAME: 
+Fright night
+ 
+ META: 
+            a list of 29 titles
+            
+
+ ============================= 
+ NAME: 
+evleneceksengel
+ 
+ META: 
+            a list of 42 titles
+            
+
+ ============================= 
+ NAME: 
+ToWatch
+ 
+ META: 
+            a list of 49 titles
+            
+
+ ============================= 
+ NAME: 
+To_Watch_prio
+ 
+ META: 
+            a list of 34 titles
+            
+
+ ============================= 
+ NAME: 
+Horror To Watch
+ 
+ META: 
+            a list of 27 titles
+            
+
+ ============================= 
+ NAME: 
+The 25 Best Surrealist Movies of All Time
+ 
+ META: 
+            a list of 25 titles
+            
+
+ ============================= 
+ NAME: 
+My Criterion Collection
+ 
+ META: 
+            a list of 40 titles
+            
+
+ ============================= 
+ NAME: 
+Sardonicast reccomendations ranked
+ 
+ META: 
+            a list of 43 titles
+            
+
+ ============================= 
+ NAME: 
+Must Re-Watch
+ 
+ META: 
+            a list of 44 titles
+            
+
+ ============================= 
+ NAME: 
+My 33 Favorite Surreal Arthouse Films
+ 
+ META: 
+            a list of 33 titles
+            
+
+ ============================= 
+ NAME: 
+Favorite Horror Films
+ 
+ META: 
+            a list of 47 titles
             
 
  ============================= 
