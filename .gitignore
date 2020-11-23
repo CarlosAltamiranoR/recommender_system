@@ -331,3 +331,4 @@ ASALocalRun/
 
 *.csv
 .ipynb_checkpoints/
+pruebas.py
