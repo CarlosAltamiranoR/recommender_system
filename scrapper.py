@@ -286,7 +286,7 @@ def descargarGuardarInfoList( idList ):
 
 # # [SCRAPPER] Proceso de selección del tipo de descarga
 
-def startMetadataListProcess( idElement, tipoDescarga, idListToCompare = None ):
+def startMetadataListProcess( idElement, idListToCompare = None ):
     #Esta funcion comienza el proceso de descarga de contenido dependiendo si 
     # idElement puede ser una el ID de una lista o de una pelicula
     #   ejemplo de ID lista    -> "ls021428038"
@@ -300,6 +300,20 @@ def startMetadataListProcess( idElement, tipoDescarga, idListToCompare = None ):
     
     print("\n Comenzando comprobación y descarga de información OriginList[%s] tipoDescarga[%s]" % ( idElement, tipoDescarga ) )
     
+    if not isinstance(idElement,str):
+        print("\n idElement ingresado tipo incorrecto: ", type(idElement))
+        return False
+
+    if idElement.find("ls"):
+        tipoDescarga = 1
+    else:
+        if idElement.find("tt"):
+            tipoDescarga = 2
+        else:
+            print("\n idElement con formato incorrecto: ", idElement )
+            return False
+
+
     if  tipoDescarga == 1:
         
         print("\n Procesando descarga de una lista directamente...")    

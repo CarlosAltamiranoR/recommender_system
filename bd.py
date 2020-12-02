@@ -193,3 +193,22 @@ def totalDeTitulosGuardados(  ):
             return None
 
     return value
+
+
+def totalTittlesEnLista(idList):      
+
+
+    sql  = "SELECT COUNT(id_list) FROM list_tittlelist where id_list=%s "
+
+    with conn.cursor() as cursor:
+
+        cursor.execute( sql, (idList) )
+
+        value = cursor.fetchall()
+
+        if len(value) <= 0:
+
+            return None
+
+    return value
+

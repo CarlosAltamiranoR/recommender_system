@@ -20,9 +20,6 @@ if __name__ == '__main__':
     
     originList = "ls096276650" #lista del usuario u con peliculas que encuentra similares
  
-    
-    
-    #startMetadataListProcess( originList, 1, endList )
     startMetadataListProcess( "tt0111161", 2, None )
 
     S = 40
