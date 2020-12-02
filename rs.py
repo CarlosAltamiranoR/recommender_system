@@ -53,6 +53,9 @@ def compararDosListas( originTitles, endTitle):
     
     #       idEndList: ID unica o arreglo con los que se quiere comparar ||      ej  "ls021428038" 
     
+    #TODO: RECIBE EL NOMBRE DE LAS LISTAS
+    #BUSCA EL ID DE TODAS LAS PELICULAS DE LA LISTA DE ORIGEN Y CONSULTA SI EXISTE
+    #PELICULAS ASOCIADAS EN BD
     result = []
     
     totalTitlesFounds = 0
@@ -80,7 +83,7 @@ def compararDosListas( originTitles, endTitle):
     
     return result
 
-def modelo( S, sub, L, n ):
+def modelo( sPrima, L,):
     
     # S -> Num de peliculas de S
     
@@ -89,11 +92,13 @@ def modelo( S, sub, L, n ):
     # n -> numero de peliculas que se encuentran en L
     
     # L -> numero de peliculas de L
+    startMetadataListProcess(sPrima)
+    startMetadataListProcess(L)
+
+    sumSPrima = totalTittlesEnLista(sPrima)
+    sumL = totalTittlesEnLista(L)
+    numSPrimaEnL = compararDosListas( sPrima,L )
+    S = sumSPrima*2
+    prob= (S*numSPrimaEnL)/(sumSPrima*sumL)
     
-    PA = n / sub
-    
-    num = S * PA
-    
-    resul = num / L
-    
-    print("\n Resultado del modelo: ", resul)
+    print("\n Resultado del modelo: ", prob)
