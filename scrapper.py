@@ -81,6 +81,7 @@ def modificarNumPagina( url, number ):
     return  url
   
 # # [SCRAPPER] Se descarga excel que contiene el listado de peliculas de una lista
+import certifi
 
 def descargarExcelDeLista( idList ):
     #ok
@@ -96,7 +97,10 @@ def descargarExcelDeLista( idList ):
     
     time.sleep( 5 )
     
-    http = urllib3.PoolManager()
+    http = urllib3.PoolManager(
+        cert_reqs='CERT_REQUIRED', # Force certificate check.
+        ca_certs=certifi.where(),  # Path to the Certifi bundle.
+    )
     
     r = http.request('GET', url, preload_content=False)
     
@@ -251,6 +255,7 @@ def leerExcelYGuardarInfo( fileName ):
                 
                     if not ( existeTittlePorId( row[1] ) ):                        
                         print("Guardando metadata de: ")
+                        print(row)
                         instertarTittleList( row[1], row[2], row[3], row[4] ,row[5], row[6], row[7], row[8], row[9], row[10], row[13] )                  
                     else:
                         print("\nYa estaba guardada la metadata de : ", row[1] )
@@ -286,7 +291,7 @@ def descargarGuardarInfoList( idList ):
 
 # # [SCRAPPER] Proceso de selección del tipo de descarga
 
-def startMetadataListProcess( idElement, idListToCompare = None ):
+def startMetadataListProcess( idElement, tipoDescarga=2, idListToCompare = None ):
     #Esta funcion comienza el proceso de descarga de contenido dependiendo si 
     # idElement puede ser una el ID de una lista o de una pelicula
     #   ejemplo de ID lista    -> "ls021428038"

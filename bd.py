@@ -2,20 +2,17 @@ import sys
 import os
 import pymysql
 import pandas as pd
+import getpass
 from numpy import *
 host = os.getenv('localhost')
 port = os.getenv('MYSQL_PORT')
-user = os.getenv('MYSQL_USER')
-password = os.getenv('MYSQL_PASSWORD')
-database = os.getenv('MYSQL_DATABASE')
-
 
 conn = pymysql.connect(
     host = host,
     port = int(3306),
     user = "root",
-    passwd ="",
-    db = "recommender_system",
+    passwd = getpass.getpass(),
+    db = "imdb",
     charset = 'utf8mb4')
 
 # # [BD]Consulta   si una lista esta registrada con metadata
@@ -120,7 +117,7 @@ def instertarListTittleList( id_list, id_tittlelist):
         #GUARDAMOS LOS CAMBIOS
 
         conn.commit()
-        print("\n[BD]Guardando asociación id_list[%s] id_tittlelist[%s]" %(id_list, id_tittlelist ))
+        #print("\n[BD]Guardando asociación id_list[%s] id_tittlelist[%s]" %(id_list, id_tittlelist ))
 
 # # [BD] Inserta información de peliculas
 

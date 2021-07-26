@@ -1,0 +1,245 @@
+ms2019_ls1001	A Hidden Life	Honey	Honey Boy	John Wick: Chapter 3 - Parabellum	Knives Out	Parasite	The Irishman	The Lighthouse	The Report	The Reports on Sarah and Saleem	Too Late to Die Young	Uncut Gems	Us							
+ms2019_ls1002	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	The Last Black Man in San Francisco	The Souvenir	Toy Story 4	Uncut Gems										
+ms2019_ls1003	A Bigger Splash	Ad Astra	Amazing Grace	Atlantics	Gay USA	La Flor	Martin Eden	Once Upon a Time in Hollywood	Glory	Queen of Diamonds	Toni Morrison: The Pieces I Am	Us								
+ms2019_ls1004	48 War Movies	Charlie Says	Climax	Martin Eden	Olivia	State Funeral	Synonyms	Ten Documentary Shorts by Vittorio De Seta	The Sky Socialist: Environs and Out-Takes											
+ms2019_ls1005	Bacurau	Beanpole	Collective	Fire Will Come	Heimat Is a Space in Time	Invisible Life	Nana	State Funeral	The White Album	Vitalina Varela										
+ms2019_ls1006	Beanpole	Give Me Liberty	High Flying Bird	Honey	Honeyland	Martin Eden	Parasite	Portrait of a Lady on Fire	The Sky Socialist: Environs and Out-Takes	The White Album	To the Ends of the Earth	Us								
+ms2019_ls1007	Amazing Grace	Border	Climax	Hail Satan?	Joan of Arc	Joker	Once Upon a Time in Hollywood	Glory	The Golden Glove	The Souvenir										
+ms2019_ls1008	Ad Astra	Bait	Border	Burning	Marriage Story	Minding the Gap	Once Upon a Time in Hollywood	Ordinary Love	The Irishman	Transit										
+ms2019_ls1009	Alita: Battle Angel	Blinded by the Light	Dolemite Is My Name	Hustlers	Midsommar	Once Upon a Time in Hollywood	Glory	Parasite	Promare	The Irishman	Us									
+ms2019_ls1010	Honey	Honey Boy	Joker	Little Women	Maiden	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Farewell	The Nightingale										
+ms2019_ls1011	Atlantics	Honey	Honeyland	Little Women	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese	The Irishman	The Last Black Man in San Francisco								
+ms2019_ls1012	Ad Astra	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	The Souvenir	Uncut Gems										
+ms2019_ls1013	Apollo 11	Booksmart	Knock Down the House	Little Women	Glory	Parasite	Terminator: Dark Fate	The Lighthouse	The Peanut Butter Falcon	Uncut Gems	Us									
+ms2019_ls1014	Honey	Honey Boy	Hustlers	Little Women	Marriage Story	Midsommar	Parasite	Ready or Not	The Farewell	The Last Black Man in San Francisco	Us	Wild Nights With Emily								
+ms2019_ls1015	An Elephant Sitting Still	Jojo Rabbit	Marriage Story	Monos	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	Waves	Woman at War										
+ms2019_ls1016	Apollo 11	Booksmart	Hustlers	Little Women	Long Day's Journey Into Night	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Us										
+ms2019_ls1017	I Lost My Body	Knives Out	Long Shot	Marriage Story	Parasite	Portrait of a Lady on Fire	Queen & Slim	Shadow	The Farewell	Transit										
+ms2019_ls1018	Climax	Dark Waters	Her Smell	Little Women	Marriage Story	Monos	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	Wild Nights With Emily										
+ms2019_ls1019	Dragged Across Concrete	Hagazussa	Honey	Honeyland	One Cut of the Dead	Parasite	Portrait of a Lady on Fire	The Farewell	The Nightingale	The Perfection	Uncut Gems	Us								
+ms2019_ls1020	Booksmart	Jojo Rabbit	Monos	Once Upon a Time in Hollywood	One Cut of the Dead	Parasite	Raise Hell: The Life and Times of Molly Ivins	Ready or Not	Starfish	Tigers Are Not Afraid										
+ms2019_ls1021	Endgame	Endgame	Once Upon a Time in Hollywood	One Cut of the Dead	Parasite	The Farewell	The Last Black Man in San Francisco	The Souvenir	Uncut Gems	Waves										
+ms2019_ls1022	Her Smell	High Life	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	The Lighthouse	The Mountain	Uncut Gems	Under the Silver Lake	Us									
+ms2019_ls1023	First Love	High Flying Bird	In My Room	Knives Out	Light of My Life	Once Upon a Time in Hollywood	Shadow	Sunset	Uncut Gems	Under the Silver Lake										
+ms2019_ls1024	Climax	Knives Out	Long Day's Journey Into Night	Marriage Story	Monos	Parasite	Portrait of a Lady on Fire	The Irishman	The Nightingale	Transit										
+ms2019_ls1025	A Hidden Life	An Elephant Sitting Still	Asako	Belmonte	Climax	Grass	Her Smell	In My Room	Our Time	Transit										
+ms2019_ls1026	A Beautiful Day in the Neighborhood	Her Smell	High Flying Bird	Hustlers	Little Women	Once Upon a Time in Hollywood	Parasite	The Farewell	The Irishman	The Last Black Man in San Francisco	Us									
+ms2019_ls1027	Knives Out	Marriage Story	Once Upon a Time in Hollywood	Parasite	Slut in a Good Way	The Irishman	The Last Black Man in San Francisco	Uncut Gems	Under the Silver Lake	Us										
+ms2019_ls1028	Asako	Ash Is Purest White	Her Smell	High Life	Marriage Story	Portrait of a Lady on Fire	Sunset	The Souvenir	Transit	Uncut Gems										
+ms2019_ls1029	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	Uncut Gems	Us										
+ms2019_ls1030	Asako	Give Me Liberty	In My Room	Once Upon a Time in Hollywood	Parasite	The Irishman	The Souvenir	Transit	Uncut Gems	Under the Silver Lake										
+ms2019_ls1031	High Life	Hustlers	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	Us									
+ms2019_ls1032	Booksmart	Her Smell	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Farewell	The Last Black Man in San Francisco	Wild Rose										
+ms2019_ls1033	Ad Astra	Ash Is Purest White	Her Smell	High Life	Once Upon a Time in Hollywood	The Irishman	Transit	Uncut Gems	Under the Silver Lake	Us										
+ms2019_ls1034	Ad Astra	Booksmart	I Lost My Body	Invisible Life	Monos	Once Upon a Time in Hollywood	Parasite	The Farewell	The Last Black Man in San Francisco	Us										
+ms2019_ls1035	Honey	Honeyland	Jojo Rabbit	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Irishman	The Souvenir	Uncut Gems										
+ms2019_ls1036	63 Up	Ad Astra	High Life	Marriage Story	Glory	Parasite	Portrait of a Lady on Fire	Uncut Gems	Under the Silver Lake											
+ms2019_ls1037	Endgame	Booksmart	Endgame	Hustlers	John Wick: Chapter 3 - Parabellum	Jojo Rabbit	Knives Out	Midsommar	Parasite	Ready or Not	Us									
+ms2019_ls1038	A Beautiful Day in the Neighborhood	Her Smell	Hustlers	Midsommar	Once Upon a Time in Hollywood	Parasite	The Golden Glove	The Lighthouse	The Souvenir	Uncut Gems	Us									
+ms2019_ls1039	Booksmart	Doctor Sleep	Knives Out	The Art of Self-Defense	The Dead Don't Die	The Farewell	The Lighthouse	The Nightingale	Uncut Gems	Us										
+ms2019_ls1040	Endgame	Doctor Sleep	Dolemite Is My Name	Endgame	Nobadi	Once Upon a Time in Hollywood	Rocketman	The Art of Self-Defense	The Last Black Man in San Francisco	The Peanut Butter Falcon	Uncut Gems									
+ms2019_ls1041	A Beautiful Day in the Neighborhood	Charlie Says	John Wick: Chapter 3 - Parabellum	Jojo Rabbit	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	Rocketman	The Dead Don't Die	The Souvenir										
+ms2019_ls1042	Atlantics	Climax	Doctor Sleep	Her Smell	Holiday	Once Upon a Time in Hollywood	Parasite	Slut in a Good Way	The Souvenir	Uncut Gems										
+ms2019_ls1043	Blood And Flesh	Knives Out	Marriage Story	Midsommar	Parasite	Swallow	The Art of Self-Defense	The Lodge	The Twentieth Century	Wild Rose										
+ms2019_ls1044	Honey	Honeyland	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	The Irishman	Uncut Gems									
+ms2019_ls1045	A Beautiful Day in the Neighborhood	Aquarela	Corpus Christi	Joker	Linda Ronstadt: The Sound of My Voice	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	Us									
+ms2019_ls1046	A Beautiful Day in the Neighborhood	Ad Astra	Ash Is Purest White	Dark Waters	Marriage Story	Once Upon a Time in Hollywood	Parasite	Richard Jewell	The Irishman	Uncut Gems										
+ms2019_ls1047	Booksmart	Ford v Ferrari	Honey	Honey Boy	Hustlers	Jojo Rabbit	Knives Out	Once Upon a Time in Hollywood	The Irishman	The Lighthouse	Uncut Gems	Us								
+ms2019_ls1048	Booksmart	Hustlers	Knives Out	Motherless Brooklyn	Parasite	The Body Remembers When the World Broke Open	The Cave	The Farewell	The Irishman	Us	Waves									
+ms2019_ls1049	American Factory	Apollo 11	Booksmart	Corpus Christi	Marriage Story	Midsommar	Glory	Parasite	Us	Weathering With You										
+ms2019_ls1050	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Farewell	The Irishman	Toy Story 4	Us											
+ms2019_ls1051	Belmonte	Coincoin and the Extra-Humans	First Love	Grass	Hotel by the River	I Do Not Care If We Go Down in History as Barbarians	Relaxer	Sunset	The Image Book	The Moneychanger	The Souvenir	The Wild Pear Tree								
+ms2019_ls1052	Booksmart	Fast Color	Little Women	Once Upon a Time in Hollywood	Parasite	Queen & Slim	The Farewell	The Irishman	Uncut Gems	Waves										
+ms2019_ls1053	Ash Is Purest White	Little Women	Marriage Story	One Child Nation	Parasite	Portrait of a Lady on Fire	Present. Perfect.	The Irishman	The Last Black Man in San Francisco	Waves										
+ms2019_ls1054	63 Up	A Beautiful Day in the Neighborhood	Ash Is Purest White	Booksmart	Honey	Honeyland	One Child Nation	Parasite	The Cave	Transit	Varda by Agnes									
+ms2019_ls1055	Endgame	Doctor Sleep	Endgame	Jojo Rabbit	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Lighthouse	Uncut Gems	Us	Waves									
+ms2019_ls1056	A Hidden Life	Ad Astra	For Sama	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	The Irishman	The Souvenir										
+ms2019_ls1057	American Factory	Dolemite Is My Name	High Life	Honey	Honeyland	Little Women	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	The Last Black Man in San Francisco									
+ms2019_ls1058	American Factory	Dolemite Is My Name	Honey	Honeyland	Knives Out	Once Upon a Time in Hollywood	Glory	Parasite	Richard Jewell	The Irishman	The Last Black Man in San Francisco									
+ms2019_ls1059	Ad Astra	American Factory	Fighting With My Family	Parasite	Queen & Slim	Ready or Not	The Farewell	The Last Black Man in San Francisco	Toy Story 4	Us										
+ms2019_ls1060	A Beautiful Day in the Neighborhood	Dark Waters	Gemini Man	Rocketman	Star Wars: The Rise of Skywalker	The Art of Racing in the Rain	The Peanut Butter Falcon	Tolkien	Zombieland: Double Tap											
+ms2019_ls1061	Ad Astra	Captive State	Dark Waters	Knives Out	Marriage Story	Midsommar	Parasite	The Farewell	The Nightingale											
+ms2019_ls1062	American Factory	Endgame	Endgame	Ford v Ferrari	Just Mercy	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	Us								
+ms2019_ls1063	Ad Astra	Hustlers	I Lost My Body	Knives Out	Little Women	Marriage Story	Parasite	The Irishman	The Report	Us										
+ms2019_ls1064	Crawl	Hustlers	Knives Out	Once Upon a Time in Hollywood	One Cut of the Dead	Parasite	Ready or Not	The Lighthouse	Under the Silver Lake	Us										
+ms2019_ls1065	John Wick: Chapter 3 - Parabellum	Parasite	Ready or Not	Rocketman	The Man Who Killed Hitler and Then the Bigfoot	The Nightingale	Tigers Are Not Afraid	Under the Silver Lake	Us	Velvet Buzzsaw										
+ms2019_ls1066	Booksmart	Climax	Jojo Rabbit	Joker	Knives Out	Midsommar	Once Upon a Time in Hollywood	Parasite	Uncut Gems	Us	Waves									
+ms2019_ls1067	Doctor Sleep	Ford v Ferrari	John Wick: Chapter 3 - Parabellum	Joker	Klaus	Knives Out	Once Upon a Time in Hollywood	Ready or Not	The Irishman	Us										
+ms2019_ls1068	Endgame	Booksmart	Crawl	Endgame	Extreme Job	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Farewell	The Peanut Butter Falcon	Us									
+ms2019_ls1069	Climax	Jojo Rabbit	Knives Out	Motherless Brooklyn	Parasite	Scary Stories to Tell in the Dark	The Man Who Killed Don Quixote	The Man Who Killed Hitler and Then the Bigfoot	The Nightingale	Under the Silver Lake										
+ms2019_ls1070	Endgame	Booksmart	Doctor Sleep	Endgame	IT: Chapter Two	Joker	Knives Out	Midsommar	Ready or Not	Rocketman	Us									
+ms2019_ls1071	Endgame	Doctor Sleep	Endgame	John Wick: Chapter 3 - Parabellum	Knives Out	Once Upon a Time in Hollywood	Parasite	Ready or Not	Rocketman	The Lighthouse	The Peanut Butter Falcon	Us								
+ms2019_ls1072	Ad Astra	Endgame	Dolemite Is My Name	Endgame	Ford v Ferrari	Jojo Rabbit	Knives Out	Marriage Story	Once Upon a Time in Hollywood	The Lighthouse	Uncut Gems	Us								
+ms2019_ls1073	Good Boys	John Wick: Chapter 3 - Parabellum	Knives Out	Once Upon a Time in Hollywood	Parasite	Spider-Man: Far From Home	The Irishman	The Last Black Man in San Francisco	Uncut Gems	Waves										
+ms2019_ls1074	Apollo 11	Her Smell	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Farewell	Uncut Gems											
+ms2019_ls1075	Her Smell	Honey	Honeyland	I Lost My Body	Knock Down the House	Marriage Story	Glory	Parasite	The Farewell	The Last Black Man in San Francisco	Uncut Gems	Us								
+ms2019_ls1076	Atlantics	Ema	Little Joe	Marriage Story	Parasite	Portrait of a Lady on Fire	The Lighthouse	The Souvenir	Uncut Gems	Us										
+ms2019_ls1077	Booksmart	Knives Out	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	Uncut Gems											
+ms2019_ls1078	Endgame	Clemency	Dark Waters	Doctor Sleep	Endgame	High Life	Little Women	Marriage Story	Parasite	The Farewell	The Last Black Man in San Francisco	The Lighthouse	Us							
+ms2019_ls1079	Always Be My Maybe	Endgame	Booksmart	Endgame	Hustlers	Knives Out	Midsommar	Parasite	Queen & Slim	The Farewell	Us									
+ms2019_ls1080	A Beautiful Day in the Neighborhood	Apollo 11	Ford v Ferrari	Honey	Honeyland	Jojo Rabbit	Knives Out	The Farewell												
+ms2019_ls1081	Apollo 11	Honey	Honeyland	Jojo Rabbit	Joker	Marriage Story	Once Upon a Time in Hollywood	The Beach Bum	The Irishman	The Last Black Man in San Francisco	Western Stars									
+ms2019_ls1082	Apollo 11	Atlantics	By the Grace of God	For Sama	Hitsville	Jojo Rabbit	Knives Out	La Belle Epoque	Marriage Story	Monos	Parasite	The Irishman	The Lighthouse	The Street	Us					
+ms2019_ls1083	Endgame	Booksmart	Endgame	If Beale Street Could Talk	Joker	Knives Out	Marriage Story	Midsommar	Once Upon a Time in Hollywood	The Favourite	The Irishman									
+ms2019_ls1084	Amazing Grace	Jojo Rabbit	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	The Farewell	The Last Black Man in San Francisco	Uncut Gems	Us										
+ms2019_ls1085	A Hidden Life	Climax	Hagazussa	Little Women	Marriage Story	The Irishman	The Lighthouse	Transit	Uncut Gems	Under the Silver Lake	Us									
+ms2019_ls1086	Atlantics	Booksmart	Midsommar	Once Upon a Time in Hollywood	Parasite	Peterloo	Portrait of a Lady on Fire	The Irishman	The Nightingale	The Souvenir										
+ms2019_ls1087	Booksmart	Honey	Honey Boy	Jojo Rabbit	Marriage Story	Midsommar	Parasite	Portrait of a Lady on Fire	The Last Black Man in San Francisco	The Lighthouse	Us									
+ms2019_ls1088	Joker	Little Women	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	The Irishman	The Lighthouse	Uncut Gems	Us									
+ms2019_ls1089	Ash Is Purest White	Atlantics	High Life	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	The Souvenir	Transit	Uncut Gems										
+ms2019_ls1090	3 From Hell	A Hidden Life	Ad Astra	Ash Is Purest White	Dragged Across Concrete	Glass	John Wick: Chapter 3 - Parabellum	Midsommar	Once Upon a Time in Hollywood	The Irishman										
+ms2019_ls1091	Little Women	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	The Irishman	Uncut Gems	Us	Waves										
+ms2019_ls1092	Asako	Ash Is Purest White	Grass	Her Smell	High Life	La Flor	Long Day's Journey Into Night	Parasite	The Irishman	Transit										
+ms2019_ls1093	Apollo 11	Fast Color	Her Smell	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	The Irishman	Uncut Gems										
+ms2019_ls1094	Fyre: The Greatest Party That Never Happened	Honey	Honey Boy	Hustlers	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Beach Bum	The Lighthouse	Uncut Gems	Us	Waves								
+ms2019_ls1095	Endgame	Endgame	Ford v Ferrari	Marriage Story	Parasite	Richard Jewell	The Farewell	The Irishman	Uncut Gems	Waves										
+ms2019_ls1096	all others in alphabetical order	Endgame	Booksmart	Endgame	Jojo Rabbit	Joker	Midsommar	Parasite	Pokemon	Shazam!	The Lighthouse	Us								
+ms2019_ls1097	Aquarela	Jojo Rabbit	Knives Out	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	Uncut Gems	Yesterday											
+ms2019_ls1098	An Elephant Sitting Still	Atlantics	End of the Century	In My Room	Los Reyes	Parasite	The Image Book	The Irishman	The Souvenir	Transit										
+ms2019_ls1099	Ad Astra	Atlantics	High Life	Marriage Story	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	The Last Black Man in San Francisco	The Souvenir	Uncut Gems									
+ms2019_ls1100	Knives Out	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	The Souvenir	Transit	Uncut Gems	Under the Silver Lake	Us										
+ms2019_ls1101	Knives Out	Little Women	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	The Farewell	The Irishman	The Lighthouse	Uncut Gems	Us									
+ms2019_ls1102	Beanpole	Happy as Lazzaro	High Life	If Beale Street Could Talk	Little Women	Marriage Story	Once Upon a Time in Hollywood	So Long, My Son	The Irishman	The Souvenir										
+ms2019_ls1103	High Life	Little Women	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	The Souvenir	Uncut Gems											
+ms2019_ls1104	Ad Astra	Grass	Greener Grass	Hustlers	Luce	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Tell Me Who I Am	The Farewell	Us								
+ms2019_ls1105	Booksmart	End of the Century	Give Me Liberty	Hustlers	Marriage Story	Non-Fiction	Once Upon a Time in Hollywood	Parasite	Sorry Angel	Us										
+ms2019_ls1106	An Elephant Sitting Still	Apollo 11	I Lost My Body	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Irishman	The Last Black Man in San Francisco	The Souvenir	Waves										
+ms2019_ls1107	Cold Case Hammerskjold	Ford v Ferrari	Les Miserables	Little Women	Once Upon a Time in Hollywood	Portrait of a Lady on Fire	The Irishman	The Last Black Man in San Francisco	Uncut Gems											
+ms2019_ls1108	Give Me Liberty	Invisible Life	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	The Irishman	The Souvenir	Us										
+ms2019_ls1109	Ad Astra	Better Days	Marriage Story	Glory	Parasite	The Farewell	The Irishman	The Last Black Man in San Francisco	Waves											
+ms2019_ls1110	Apollo 11	Climax	Crawl	For Sama	Knives Out	Once Upon a Time in Hollywood	Parasite	The Nightingale	The Unauthorized Bash Brothers Experience	Uncut Gems										
+ms2019_ls1111	Climax	Her Smell	Hustlers	Little Women	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	The Farewell	Uncut Gems	Us									
+ms2019_ls1112	An Elephant Sitting Still	Asako	Ash Is Purest White	High Life	La Flor	Long Day's Journey Into Night	Parasite	The Farewell	Uncut Gems	Us										
+ms2019_ls1113	Atlantics	High Life	Midsommar	Parasite	Portrait of a Lady on Fire	The Farewell	Uncut Gems													
+ms2019_ls1114	Endgame	Booksmart	Endgame	Jojo Rabbit	Joker	Knives Out	Parasite	Rocketman	The Irishman	Us										
+ms2019_ls1115	Booksmart	Can You Ever Forgive Me	Eighth Grade	For Sama	If Beale Street Could Talk	Little Women	Marriage Story	Once Upon a Time in Hollywood	The Favourite	The Irishman										
+ms2019_ls1116	Long Day's Journey Into Night	Marriage Story	Monos	Glory	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	Uncut Gems	Us										
+ms2019_ls1117	Ad Astra	Endgame	Captain Marvel	Endgame	Fast Color	Jojo Rabbit	Midsommar	One Cut of the Dead	Steven Universe: The Movie	Us										
+ms2019_ls1118	Ad Astra	At Eternity's Gate	Bait	Booksmart	Everybody Knows	If Beale Street Could Talk	Joker	La Belle Epoque	Marriage Story	Minding the Gap	Glory	Rocketman	Sorry We Missed You	Stan & Ollie	The Farewell	The Irishman	The Kindergarten Teacher	The Last Black Man in San Francisco	The Souvenir	Us
+ms2019_ls1119	Bait	Birds of Passage	Can You Ever Forgive Me	Her Smell	If Beale Street Could Talk	Madeline's Madeline	Marriage Story	Midsommar	Monos	Glory										
+ms2019_ls1120	Dolemite Is My Name	Joker	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	The King	Uncut Gems	Waves											
+ms2019_ls1121	Joker	Knives Out	Little Women	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	The Irishman	The Lighthouse	Us										
+ms2019_ls1122	Gloria Bell	Her Smell	Hustlers	If Beale Street Could Talk	In Fabric	In My Blood It Runs	Island of the Hungry Ghosts	Knives Out	Marriage Story	Midsommar	Glory	Parasite	Portrait of a Lady on Fire	The Australian Dream	The Beach Bum	The Farewell	The Final Quarter	The Nightingale	Us	Vox Lux
+ms2019_ls1123	Apollo 11	Ford v Ferrari	Jojo Rabbit	Once Upon a Time in Hollywood	Glory	Parasite	Rocketman	The Irishman	The Two Popes	Transit										
+ms2019_ls1124	A Hidden Life	For Sama	High Life	Little Women	Once Upon a Time in Hollywood	Glory	The Irishman	The Lighthouse	The Souvenir	Uncut Gems	Us									
+ms2019_ls1125	Endgame	Booksmart	Eighth Grade	Endgame	If Beale Street Could Talk	Joker	Marriage Story	Midsommar	The Farewell	The Irishman	Us									
+ms2019_ls1126	An Elephant Sitting Still	Atlantics	Endgame	Endgame	Jojo Rabbit	Long Day's Journey Into Night	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	Toy Story 4	Us							
+ms2019_ls1127	Ash Is Purest White	I Do Not Care If We Go Down in History as Barbarians	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Irishman	The Souvenir										
+ms2019_ls1128	all others listed alphabetically	Ema	Ford v Ferrari	I Lost My Body	Little Women	Maiden	Marriage Story	Once Upon a Time in Hollywood	Glory	The Cave	The Irishman	Toy Story 4								
+ms2019_ls1129	Apollo 11	Endgame	Endgame	Hustlers	Knives Out	Little Women	Marriage Story	Parasite	The Farewell	The Irishman	Us									
+ms2019_ls1130	Babylon	Honey	Honeyland	Once Upon a Time in Hollywood	Parasite	Peterloo	Portrait of a Lady on Fire	The Dead Don't Die	The Irishman	The Souvenir	Uncut Gems									
+ms2019_ls1131	Ad Astra	Her Smell	Knives Out	Little Women	Parasite	Portrait of a Lady on Fire	Synonyms	The Farewell	The Souvenir	Uncut Gems										
+ms2019_ls1132	Endgame	Booksmart	Endgame	Joker	Little Women	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	The Farewell	Us									
+ms2019_ls1133	A Hidden Life	Ford v Ferrari	Hustlers	Joker	Les Miserables	Never Look Away	Once Upon a Time in Hollywood	Parasite	Richard Jewell	The Last Black Man in San Francisco	Us									
+ms2019_ls1134	Ford v Ferrari	Jojo Rabbit	Joker	Little Women	Marriage Story	Parasite	The Irishman	The Lighthouse	Uncut Gems	Us										
+ms2019_ls1135	Atlantics	Bait	By the Grace of God	Hale County This Morning, This Evening	Happy as Lazzaro	Madeline's Madeline	Midsommar	Monos	The Souvenir	Under the Silver Lake										
+ms2019_ls1136	Blinded by the Light	Booksmart	Child's Play	Honey	Honey Boy	Little Women	Parasite	The Farewell	The Irishman	Uncut Gems										
+ms2019_ls1137	A Beautiful Day in the Neighborhood	Booksmart	Dolemite Is My Name	Hail Satan?	Honey	Honey Boy	Little Women	Parasite	Portrait of a Lady on Fire	The Lighthouse	Us									
+ms2019_ls1138	American Factory	Little Women	Once Upon a Time in Hollywood	One Child Nation	Glory	Parasite	Synonyms	The Irishman	The Last Black Man in San Francisco	Transit										
+ms2019_ls1139	Atlantics	Honey	Honeyland	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	Peterloo	The Edge of Democracy	The Irishman	The Souvenir									
+ms2019_ls1140	Endgame	Booksmart	Endgame	Fighting With My Family	Hustlers	John Wick: Chapter 3 - Parabellum	Joker	Knives Out	Marriage Story	Rocketman	Us									
+ms2019_ls1141	Atlantics	Endgame	Booksmart	Endgame	Fast Color	Gloria Bell	Hustlers	I Lost My Body	Knives Out	Little Women	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Glory	Parasite	The Cave	The Farewell	The Irishman	The Lighthouse	Us
+ms2019_ls1142	Bait	For Sama	If Beale Street Could Talk	Monos	Only You	Ordinary Love	Out of Blue	Rocketman	The Souvenir	Us										
+ms2019_ls1143	Honey	Honey Boy	Jojo Rabbit	Knives Out	Marriage Story	Once Upon a Time in Hollywood	Parasite	Rocketman	The Last Black Man in San Francisco	The Lighthouse	Us	Waves								
+ms2019_ls1144	High Life	In Fabric	Little Women	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Beach Bum	The Irishman	The Lighthouse	Uncut Gems	Us									
+ms2019_ls1145	Ford v Ferrari	Judy	Knives Out	Little Women	Once Upon a Time in Hollywood	Parasite	The Irishman	Toy Story 4	Us											
+ms2019_ls1146	Ad Astra	Jojo Rabbit	Knives Out	Marriage Story	Parasite	The Farewell	The Irishman	The Lighthouse	Transit	Uncut Gems	Us									
+ms2019_ls1147	Black Christmas	Honey	Honey Boy	In Fabric	Knives Out	Midsommar	Portrait of a Lady on Fire	Swallow	The Last Black Man in San Francisco	Under the Silver Lake	Us									
+ms2019_ls1148	Ad Astra	Apollo 11	Hustlers	Midsommar	Parasite	The Farewell	The Irishman	The Lighthouse	The Lonely Island Presents: The Unauthorized Bash Brothers Experience	The Man Who Killed Don Quixote	The Unauthorized Bash Brothers Experience	Us								
+ms2019_ls1149	Ad Astra	American Factory	Her Smell	Marriage Story	Monos	Parasite	The Farewell	The Irishman	Uncut Gems	Under the Silver Lake										
+ms2019_ls1150	A Hidden Life	Hail Satan?	Honey	Honey Boy	I Lost My Body	Knives Out	Parasite	The Farewell	The Last Black Man in San Francisco	The Nightingale	Wild Rose									
+ms2019_ls1151	Booksmart	Fast Color	Her Smell	Midsommar	Once Upon a Time in Hollywood	Ready or Not	The Farewell	The Last Black Man in San Francisco	Toy Story 4	Us										
+ms2019_ls1152	A Beautiful Day in the Neighborhood	A Hidden Life	Knives Out	Little Women	Marriage Story	Parasite	The Irishman	The Peanut Butter Falcon	The Two Popes	Us										
+ms2019_ls1153	Atlantics	High Life	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	The Souvenir	Uncut Gems										
+ms2019_ls1154	Black Mother	Glass	Long Day's Journey Into Night	Sorry Angel	The Gospel of Eureka	The Hottest August	The Irishman	The Wandering Soap Opera	The Wild Pear Tree	Us										
+ms2019_ls1155	Atlantics	I Lost My Body	Invisible Life	Monos	Glory	Portrait of a Lady on Fire	The Chambermaid	The Farewell	The Last Black Man in San Francisco	The Souvenir										
+ms2019_ls1156	Ad Astra	Midnight Family	Midsommar	One Child Nation	Parasite	The Farewell	The Irishman	The Last Black Man in San Francisco	The Nightingale	Uncut Gems										
+ms2019_ls1157	Apollo 11	Atlantics	Once Upon a Time in Hollywood	Glory	The Farewell	The Nightingale	The Souvenir	Tigers Are Not Afraid	Uncut Gems	Us										
+ms2019_ls1158	American Factory	Birds of Passage	Diane	Joker	Marriage Story	Parasite	The Irishman	The Peanut Butter Falcon	The Report	Waves										
+ms2019_ls1159	Atlantics	Booksmart	Dolemite Is My Name	Marriage Story	Midsommar	Parasite	The Farewell	The Irishman	The Last Black Man in San Francisco	Tigers Are Not Afraid										
+ms2019_ls1160	A Beautiful Day in the Neighborhood	Ad Astra	High Life	Honey	Honey Boy	Luce	Marriage Story	Once Upon a Time in Hollywood	Glory	The Farewell	The Last Black Man in San Francisco									
+ms2019_ls1161	A Hidden Life	Apollo 11	For Sama	Little Women	Parasite	Portrait of a Lady on Fire	Shazam!	The Irishman	The Nightingale	The Standoff at Sparrow Creek										
+ms2019_ls1162	Chained for Life	Hail Satan?	Marriage Story	Once Upon a Time in Hollywood	One Child Nation	Portrait of a Lady on Fire	Saint Frances	The Load	The Nightingale	Waves										
+ms2019_ls1163	Dolemite Is My Name	Hustlers	Knives Out	Glory	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman	The Last Black Man in San Francisco	Us										
+ms2019_ls1164	Apollo 11	Give Me Liberty	Marriage Story	Once Upon a Time in Hollywood	Parasite	Sunset	The Irishman	The Nightingale	Transit	Uncut Gems										
+ms2019_ls1165	Asako	Black Mother	Climax	Dragged Across Concrete	High Life	Once Upon a Time in Hollywood	Glory	Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese	The Image Book	The Irishman										
+ms2019_ls1166	Ash Is Purest White	For Sama	Honey	Honeyland	Invisible Life	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Souvenir									
+ms2019_ls1167	Apollo 11	Honey	Little Women	Midsommar	Parasite	Portrait of a Lady on Fire	The Irishman	The Last Black Man in San Francisco	The Lighthouse	Uncut Gems	Us									
+ms2019_ls1168	Booksmart	Doctor Sleep	Dolemite Is My Name	Hustlers	Just Mercy	Ready or Not	Rocketman	Teen Spirit	The Peanut Butter Falcon	Us										
+ms2019_ls1169	A Beautiful Day in the Neighborhood	Amazing Grace	Bombshell	Booksmart	Little Women	Marriage Story	The Irishman	The Last Black Man in San Francisco	The Peanut Butter Falcon											
+ms2019_ls1170	Asako	Ash Is Purest White	Birds of Passage	High Life	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	The Lighthouse	Transit	Us									
+ms2019_ls1171	An Elephant Sitting Still	Dogman	I Do Not Care If We Go Down in History as Barbarians	Light From Light	Once Upon a Time in Hollywood	Glory	Parasite	Rocketman	Synonyms	Where'd You Go, Bernadette										
+ms2019_ls1172	Apollo 11	Diane	Once Upon a Time in Hollywood	Glory	Parasite	Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese	The Farewell	The Irishman	The Souvenir	Transit										
+ms2019_ls1173	A Beautiful Day in the Neighborhood	Booksmart	Hustlers	Knives and Skin	Little Women	Midsommar	Parasite	Portrait of a Lady on Fire	Us	Wild Nights With Emily										
+ms2019_ls1174	63 Up	A Hidden Life	Apollo 11	High Life	Midnight Family	Parasite	The Farewell	The Irishman	Uncut Gems	Us										
+ms2019_ls1175	A Beautiful Day in the Neighborhood	American Factory	Her Smell	Little Women	Marriage Story	Parasite	Portrait of a Lady on Fire	The Irishman	The Souvenir	Uncut Gems										
+ms2019_ls1176	Atlantics	Beanpole	Dark Waters	Little Women	MS Slavic 7	One Day in the Life of Noah Piugattuk	Portrait of a Lady on Fire	The Irishman	Uncut Gems	Vitalina Varela										
+ms2019_ls1177	A Hidden Life	Dolemite Is My Name	Little Women	Once Upon a Time in Hollywood	Glory	Parasite	Portrait of a Lady on Fire	Starfish	The Irishman	The Souvenir										
+ms2019_ls1178	Ad Astra	Atlantics	I Lost My Body	Knives Out	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	The Farewell	Waves										
+ms2019_ls1179	A Story From Africa	Absence	Depraved	Fourteen	Hampton	I Trapped the Devil	Joan Mitchell, Details	Nowhere, Nobody	The Day Shall Come											
+ms2019_ls1180	A Hidden Life	Ad Astra	For Sama	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	Transit	Us										
+ms2019_ls1181	Jojo Rabbit	Joker	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Farewell	The Irishman	Uncut Gems											
+ms2019_ls1182	Apollo 11	Endgame	Booksmart	Captain Marvel	Endgame	Her Smell	Ms. Purple	One Child Nation	Parasite	Portrait of a Lady on Fire	The Farewell	The Irishman								
+ms2019_ls1183	Bombshell	Diane	Hobbs & Shaw	Ford v Ferrari	Mustang	Once Upon a Time in Hollywood	Glory	The Farewell	The Irishman	The Two Popes	Us									
+ms2019_ls1184	Atlantics	Knives Out	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Irishman	The Lighthouse	Uncut Gems	Us									
+ms2019_ls1185	3 Faces	Apollo 11	Ford v Ferrari	John Wick: Chapter 3 - Parabellum	Little Women	Once Upon a Time in Hollywood	Parasite	The Farewell	The Irishman	Uncut Gems										
+ms2019_ls1186	Little Women	Marriage Story	Parasite	The Irishman	Uncut Gems															
+ms2019_ls1187	Give Me Liberty	Monos	Glory	The Irishman	The Souvenir															
+ms2019_ls1188	Monos	Parasite	The Irishman	The Last Black Man in San Francisco	The Souvenir															
+ms2019_ls1189	Give Me Liberty	Monos	Parasite	The Souvenir	Uncut Gems															
+ms2019_ls1190	Invisible Life	Marriage Story	Parasite	The Lighthouse	The Souvenir	Us														
+ms2019_ls1191	A Rainy Day in New York	An Officer and a Spy	Charlie Says	Les Miserables	Minuscule 2	Us														
+ms2019_ls1192	I Was at Home, But	Parasite	So Long, My Son	The Irishman	Vitalina Varela															
+ms2019_ls1193	Glory	Parasite	Portrait of a Lady on Fire	Synonyms	True History of the Kelly Gang															
+ms2019_ls1194	A Beautiful Day in the Neighborhood	Endgame	Endgame	Little Women	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Farewell	The Irishman	Us										
+ms2019_ls1195	An Elephant Sitting Still	Climax	Diane	Her Smell	Marriage Story	Once Upon a Time in Hollywood	Glory	The Beach Bum	The Competition	The Irishman										
+ms2019_ls1196	Ad Astra	Marriage Story	Midsommar	Peterloo	Portrait of a Lady on Fire	The Farewell	The Gospel of Eureka	The Souvenir	Transit	Uncut Gems										
+ms2019_ls1197	An Elephant Sitting Still	Ash Is Purest White	Black Mother	High Life	La Flor	Parasite	The Irishman	The Souvenir	Transit	Uncut Gems										
+ms2019_ls1198	Ash Is Purest White	Climax	Gemini Man	High Life	In My Room	La Flor	Once Upon a Time in Hollywood	Glory	The Competition	Uncut Gems										
+ms2019_ls1199	A Beautiful Day in the Neighborhood	Ad Astra	Black Mother	Climax	Long Day's Journey Into Night	Peterloo	Ray & Liz	The Competition	The Irishman	Transit										
+ms2019_ls1200	Ash Is Purest White	Atlantics	Dark Waters	End of the Century	I Do Not Care If We Go Down in History as Barbarians	Long Day's Journey Into Night	Once Upon a Time in Hollywood	Parasite	Transit	Us										
+ms2019_ls1201	A Hidden Life	Ash Is Purest White	End of the Century	In My Room	La Flor	Marriage Story	Once Upon a Time in Hollywood	Portrait of a Lady on Fire	Transit	Uncut Gems										
+ms2019_ls1202	A Hidden Life	Aniara	I Do Not Care If We Go Down in History as Barbarians	In Fabric	Glory	Parasite	Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese	Shadow	The Lighthouse	To Dust	Us									
+ms2019_ls1203	An Elephant Sitting Still	Black Mother	Chinese Portrait	I Do Not Care If We Go Down in History as Barbarians	Marriage Story	Parasite	Suburban Birds	The Plagiarists	Uncut Gems	What You Gonna Do When the World's on Fire?										
+ms2019_ls1204	A Hidden Life	Dragged Across Concrete	Ray & Liz	The Beach Bum	The Irishman	The Mountain	The Plagiarists	The Souvenir	Transit	What You Gonna Do When the World's on Fire?										
+ms2019_ls1205	A Hidden Life	Asako	Ash Is Purest White	Chinese Portrait	Once Upon a Time in Hollywood	Pasolini	The Beach Bum	The Gospel of Eureka	Uncut Gems	Waves										
+ms2019_ls1206	A Hidden Life	Atlantics	Climax	Once Upon a Time in Hollywood	Glory	Peterloo	The Dead Don't Die	The Irishman	The Souvenir	Transit										
+ms2019_ls1207	Agnes by Varda	Ash Is Purest White	Chinese Portrait	Honey	Honeyland	I Do Not Care If We Go Down in History as Barbarians	I Lost My Body	Parasite	Sauvage	The Competition	The Wild Pear Tree									
+ms2019_ls1208	A Beautiful Day in the Neighborhood	Atlantics	La Flor	Long Day's Journey Into Night	Once Upon a Time in Hollywood	Parasite	The Beach Bum	The Souvenir	Transit	Uncut Gems										
+ms2019_ls1209	A Beautiful Day in the Neighborhood	Atlantics	Chained for Life	Domino	La Flor	Glory	Peterloo	The Gospel of Eureka	The Irishman	Under the Silver Lake										
+ms2019_ls1210	High Life	Honey	Honeyland	I Do Not Care If We Go Down in History as Barbarians	Once Upon a Time in Hollywood	Parasite	The Gospel of Eureka	The Image Book	The Irishman	The Lighthouse	Uncut Gems	Us								
+ms2019_ls1211	Honey	Honeyland	Little Women	Once Upon a Time in Hollywood	Parasite	Peterloo	Portrait of a Lady on Fire	The Chambermaid	The Irishman	Us	Varda by Agnes									
+ms2019_ls1212	Birds of Passage	Marriage Story	Never Look Away	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Australian Dream	The Irishman	The Nightingale	The Sisters Brothers	Us									
+ms2019_ls1213	Ad Astra	High Life	Hustlers	Knives Out	Long Day's Journey Into Night	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	The Lighthouse	Toy Story 4	Transit	Uncut Gems	Us						
+ms2019_ls1214	Atlantics	Burning	Happy as Lazzaro	If Beale Street Could Talk	Little Women	Marriage Story	Once Upon a Time in Hollywood	The Chambermaid	The Irishman	The Souvenir										
+ms2019_ls1215	Ash Is Purest White	High Life	John Wick: Chapter 3 - Parabellum	Once Upon a Time in Hollywood	Parasite	Peterloo	The Farewell	The Irishman	The Souvenir	Uncut Gems										
+ms2019_ls1216	A Beautiful Day in the Neighborhood	Dolemite Is My Name	Hustlers	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	Us									
+ms2019_ls1217	Apollo 11	Little Women	Marriage Story	Midsommar	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Souvenir	Uncut Gems	Under the Silver Lake										
+ms2019_ls1218	Antigone	Apollo 11	Jojo Rabbit	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	The Last Black Man in San Francisco											
+ms2019_ls1219	Ad Astra	Endgame	Booksmart	Eighth Grade	Endgame	Joker	Marriage Story	Midsommar	Once Upon a Time in Hollywood	The Favourite	The Irishman									
+ms2019_ls1220	A Beautiful Day in the Neighborhood	Endgame	Bombshell	Endgame	Gloria Bell	Joker	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Irishman	Waves									
+ms2019_ls1221	Ash Is Purest White	Birds of Passage	In Fabric	Knives Out	Marriage Story	Midsommar	Monos	Once Upon a Time in Hollywood	The Favourite	The Irishman										
+ms2019_ls1222	Dolemite Is My Name	Ford v Ferrari	Knives Out	Little Women	Midsommar	Once Upon a Time in Hollywood	Parasite	The Death of Dick Long	The Irishman	Uncut Gems										
+ms2019_ls1223	A Beautiful Day in the Neighborhood	Endgame	Bombshell	Endgame	Hustlers	Knives Out	Marriage Story	Once Upon a Time in Hollywood	Parasite	The Farewell	Us									
+ms2019_ls1224	Endgame	Booksmart	Endgame	Ford v Ferrari	Jojo Rabbit	Little Women	Marriage Story	Parasite	Us	Wild Rose										
+ms2019_ls1225	A Hidden Life	An Elephant Sitting Still	Asako	Ash Is Purest White	Atlantics	Black Mother	Once Upon a Time in Hollywood	The Irishman	The Souvenir	Uncut Gems										
+ms2019_ls1226	Atlantics	Her Smell	Honey	Honeyland	Hustlers	Parasite	Portrait of a Lady on Fire	The Farewell	The Ground Beneath My Feet	The Souvenir	Uncut Gems	Us								
+ms2019_ls1227	A Beautiful Day in the Neighborhood	Birds of Passage	Diane	I Lost My Body	Glory	The Chambermaid	The Hottest August	Toy Story 4	Us	Waves	Woman at War									
+ms2019_ls1228	A Hidden Life	Bombshell	Diane	Joker	Marriage Story	Once Upon a Time in Hollywood	The Irishman	The Report	Toy Story 4	Uncut Gems										
+ms2019_ls1229	Booksmart	Everybody Knows	Frankie	Gloria Bell	Jojo Rabbit	Judy	Late Night	Long Shot	Miss Bala	Non-Fiction	Share	The Farewell	Vita and Virginia							
+ms2019_ls1230	Black Mother	Marriage Story	Once Upon a Time in Hollywood	Parasite	Peterloo	The Farewell	The Hottest August	The Irishman	The Souvenir	Uncut Gems	Us									
+ms2019_ls1231	A Hidden Life	Atlantics	Climax	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	Shadow	The Irishman	The Wild Pear Tree										
+ms2019_ls1232	American Factory	Diane	Dolemite Is My Name	For Sama	Honey	Honeyland	Little Women	Once Upon a Time in Hollywood	Parasite	The Irishman	Uncut Gems									
+ms2019_ls1233	Ash Is Purest White	Atlantics	Little Women	Once Upon a Time in Hollywood	One Cut of the Dead	Parasite	The Farewell	The Hottest August	Uncut Gems	Under the Silver Lake	Us									
+ms2019_ls1234	Apollo 11	Booksmart	Knives Out	Little Women	Marriage Story	Once Upon a Time in Hollywood	Glory	Parasite	The Irishman	The Two Popes										
+ms2019_ls1235	A Beautiful Day in the Neighborhood	American Factory	Blinded by the Light	Give Me Liberty	Jim Allison: Breakthrough	Little Women	Mustang	Queen & Slim	The Farewell	The Mustang	Us	Waves								
+ms2019_ls1236	Ash Is Purest White	Atlantics	Diane	Dolemite Is My Name	High Life	Little Women	Once Upon a Time in Hollywood	Parasite	Portrait of a Lady on Fire	The Irishman										
+ms2019_ls1237	A Hidden Life	Booksmart	Little Women	Luce	Marriage Story	Once Upon a Time in Hollywood	Portrait of a Lady on Fire	The Irishman	The Lighthouse	The Nightingale	Us									
+ms2019_ls1238	Amazing Grace	Booksmart	For Sama	Ford v Ferrari	Little Women	Marriage Story	Once Upon a Time in Hollywood	The Farewell	The Irishman	The Lighthouse	Us									
+ms2019_ls1239	Endgame	Booksmart	Burning	Endgame	Joker	Klaus	Marriage Story	Paddleton	The Irishman	Toy Story 4	Us									
+ms2019_ls1240	A Hidden Life	Atlantics	Black Mother	Coincoin and the Extra-Humans	High Life	I Was at Home, But	Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese	The Image Book	The Irishman	Uncut Gems	Vitalina Varela									
+ms2019_ls1241	A Beautiful Day in the Neighborhood	Endgame	Endgame	Ford v Ferrari	Honey	Honey Boy	Jojo Rabbit	Joker	Knives Out	Marriage Story	The Farewell	Us								
+ms2019_ls1242	Endgame	Booksmart	Endgame	Hustlers	Knives Out	Marriage Story	Once Upon a Time in Hollywood	Parasite	Star Wars: The Rise of Skywalker	The Farewell	The Irishman	The Last Black Man in San Francisco	Uncut Gems	Us						
+ms2019_ls1243	Dogman	Dragged Across Concrete	Ford v Ferrari	Joker	Luce	Once Upon a Time in Hollywood	Glory	The Art of Self-Defense	The Irishman	Uncut Gems										
+ms2019_ls1244	3 Faces	Booksmart	Diane	Her Smell	High Life	Little Women	Marriage Story	Glory	Parasite	The Irishman										
+ms2019_ls1245	Booksmart	Dolemite Is My Name	Knives Out	Little Women	Marriage Story	Parasite	The Farewell	The Irishman	Toy Story 4											

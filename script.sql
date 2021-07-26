@@ -1,6 +1,4 @@
-create
-or
-replace table akas
+create table akas
 (
     tconst varchar (15) not null,
     ordering int null,
@@ -12,9 +10,7 @@ replace table akas
     isOriginalTitle tinyint (1) null
 );
 
-create
-or
-replace table list_tittlelist
+create table list_tittlelist
 (
     id int auto_increment
     primary key,
@@ -22,9 +18,7 @@ replace table list_tittlelist
     id_tittlelist varchar (30) not null
 );
 
-create
-or
-replace table lists
+create table lists
 (
     id int auto_increment
     primary key,
@@ -35,9 +29,7 @@ replace table lists
 )
 comment 'información relevante de las listas';
 
-create
-or
-replace table name_basics
+create table name_basics
 (
     nconst varchar (15) not null
     primary key,
@@ -48,9 +40,7 @@ replace table name_basics
     knownForTitles varchar (255) null
 );
 
-create
-or
-replace table principals
+create table principals
 (
     tconst varchar (15) not null
     primary key,
@@ -61,9 +51,7 @@ replace table principals
     characters varchar (255) null
 );
 
-create
-or
-replace table ratings
+create table ratings
 (
     tconst varchar (15) not null
     primary key,
@@ -71,9 +59,7 @@ replace table ratings
     numVotes int null
 );
 
-create
-or
-replace table tittle_basics
+create table tittle_basics
 (
     tconst varchar (15) null,
     titleType varchar (255) null,
@@ -86,9 +72,7 @@ replace table tittle_basics
     genres varchar (255) null
 );
 
-create
-or
-replace table tittle_list
+create table tittle_list
 (
     id int auto_increment
     primary key,
@@ -98,7 +82,7 @@ replace table tittle_list
     description varchar (255) null,
     name_tittle varchar (255) null,
     url varchar (255) null,
-    tittle_type int null,
+    tittle_type varchar (255) null,
     imdb_rating float (2,1) null,
     runtime_mins int null,
     year int null,
