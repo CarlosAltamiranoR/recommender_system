@@ -16,7 +16,7 @@ from sklearn.preprocessing import MinMaxScaler
 def load_data(database="imdb_links.db", table="imdb_movie_links"):
     conn = sqlite3.connect(database)
     cursor = conn.cursor()
-    query = f"SELECT imdb_id, link FROM {table}"
+    query = f"SELECT imdb_id, link, COUNT(link) as count FROM {table} GROUP BY link"
     cursor.execute(query)
     data = cursor.fetchall()
     conn.close()
@@ -26,23 +26,29 @@ def load_data(database="imdb_links.db", table="imdb_movie_links"):
 def preprocess_data(data):
     imdb_ids = []
     links = []
+    counts = []
 
     for row in data:
         imdb_id = row[0]
         link = row[1]
+        count = row[2]
         imdb_id_numeric = int(imdb_id[2:])  # Extraer la parte numérica de la cadena 'imdb_id'
         imdb_ids.append(imdb_id_numeric)
         links.append(link)
+        counts.append(count)
 
-    return np.array(imdb_ids), np.array(links)
+    return np.array(imdb_ids), np.array(links), np.array(counts)
 
 
 # Cargar y preprocesar los datos
 data = load_data("imdb_links.db", "imdb_movie_links")
-imdb_ids, links = preprocess_data(data)
+imdb_ids, links, counts = preprocess_data(data)
+
+# Crear un array NumPy combinando 'imdb_ids' y 'counts'
+X = np.column_stack((imdb_ids, counts))
 
 # Separar los datos en conjuntos de entrenamiento y prueba
-X_train, X_test, y_train, y_test = train_test_split(imdb_ids, links, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, links, test_size=0.2, random_state=42)
 
 from tensorflow.keras.utils import to_categorical
 
@@ -60,9 +66,10 @@ y_test_one_hot = to_categorical(y_test, num_classes=num_classes_links)
 
 # Crear el modelo de red neuronal
 model = Sequential()
-model.add(Dense(64, activation="relu", input_shape=(1,)))
+model.add(Dense(64, activation="relu", input_shape=(2,)))  # Cambiar 'input_shape' a (2,)
 model.add(Dense(64, activation="relu"))
 model.add(Dense(1, activation="linear"))
+
 
 # Compilar el modelo
 model.compile(optimizer="adam", loss="mse", metrics=["mae"])
