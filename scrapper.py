@@ -89,6 +89,7 @@ def descargarExcelDeLista( idList ):
     #           ej: "ls092155333"
     #return fileName: El nombre del archivo que guardó
     
+    print("\n descargarExcelDeLista:",urlImdb, urlStringList, idList, urlToExport)
         
     url = urlImdb + urlStringList + idList + urlToExport
     
@@ -243,19 +244,20 @@ def leerExcelYGuardarInfo( fileName ):
             if countRow >0 :
                 print("\nValidando:",idList, row[1])
                 
-                if not existeListTittleList(idList, row[1]):
+                if not existeAsociacionListaTittle(idList, row[1]):
 
                     print("\nNo estaba almacenado asociación entre: ",idList, row[1] )
 
                     instertarListTittleList( idList, row[1] )
-                
-                    if not ( existeTittlePorId( row[1] ) ):                        
-                        print("Guardando metadata de: ")
-                        instertarTittleList( row[1], row[2], row[3], row[4] ,row[5], row[6], row[7], row[8], row[9], row[10], row[13] )                  
-                    else:
-                        print("\nYa estaba guardada la metadata de : ", row[1] )
                 else:
                     print("\nYa estaba almacenado asociación entre: ",idList, row[1] )
+                
+                if not ( existeMetadaDeTittle( row[1] ) ):                        
+                    print("Guardando metadata de: ",row[1] )
+                    instertarTittleList( row[1], row[2], row[3], row[4] ,row[5], row[6], row[7], row[8], row[9], row[10], row[13] )                  
+                else:
+                    print("\nYa estaba guardada la metadata de : ", row[1] )
+                
 
             countRow += 1
             
@@ -286,7 +288,7 @@ def descargarGuardarInfoList( idList ):
 
 # # [SCRAPPER] Proceso de selección del tipo de descarga
 
-def startMetadataListProcess( idElement, idListToCompare = None ):
+def startScrapper( idElement, idListToCompare = None ):
     #Esta funcion comienza el proceso de descarga de contenido dependiendo si 
     # idElement puede ser una el ID de una lista o de una pelicula
     #   ejemplo de ID lista    -> "ls021428038"
@@ -298,22 +300,24 @@ def startMetadataListProcess( idElement, idListToCompare = None ):
     #   string-> es unicamente un ID de una lista 
     #   list  -> es una lista de ID de listas
     
-    print("\n Comenzando comprobación y descarga de información OriginList[%s] tipoDescarga[%s]" % ( idElement, tipoDescarga ) )
+    
+    #TODO: CUANDO ES PELICULA GUARDAR EN LA PAGINA QUE QUEDO PARA COMENZAR LA SIGUIENTE DESCARGA DESDE ESA PAGINA
+    
     
     if not isinstance(idElement,str):
         print("\n idElement ingresado tipo incorrecto: ", type(idElement))
         return False
 
-    if idElement.find("ls"):
+    if  re.findall("^ls", idElement):
         tipoDescarga = 1
     else:
-        if idElement.find("tt"):
+        if re.findall("^tt", idElement):
             tipoDescarga = 2
         else:
             print("\n idElement con formato incorrecto: ", idElement )
             return False
 
-
+    print("\n Comenzando comprobación y descarga de información OriginList[%s] tipoDescarga[%s]" % ( idElement, tipoDescarga ) )
     if  tipoDescarga == 1:
         
         print("\n Procesando descarga de una lista directamente...")    
@@ -376,7 +380,7 @@ def startMetadataListProcess( idElement, idListToCompare = None ):
             
             idImdb = idImdb.split( '/', 2 )[-1]        
 
-            if not ( existeListaPorId( lista[1] ) ):    
+            if not ( existeMetadataDeLista( lista[1] ) ):    
 
                 instertarLista( lista[0], lista[1], lista[2], idImdb )
                 descargarGuardarInfoList(idImdb)

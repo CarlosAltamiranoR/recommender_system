@@ -18,10 +18,11 @@ conn = pymysql.connect(
     db = "recommender_system",
     charset = 'utf8mb4')
 
-# # [BD]Consulta   si una lista esta registrada con metadata
-    
 
-def existeListaPorId( idImdb ):
+#================================================EXISTE=======================================================
+    
+#existeListaPorId
+def existeMetadataDeLista( idImdb ):
 
     exist = True
 
@@ -38,8 +39,8 @@ def existeListaPorId( idImdb ):
     return exist
 
 # # [BD] Comprueba si una lista está registrada en List_tittlelist
-
-def existeEnListTittleList( idImdb ):
+#existeEnListTittleList
+def existeListaEnAsociacion( idImdb ):
 
     exist = True
 
@@ -55,9 +56,24 @@ def existeEnListTittleList( idImdb ):
 
     return exist
 
-# # [BD] Consulta si un tittle (pelicula) existe
+def existeTittleEnAsociacion( idTittle ):
 
-def existeTittlePorId( tconst ):
+    exist = True
+
+    sql  = " SELECT * FROM list_tittlelist WHERE id_tittlelist = %s "
+
+    with conn.cursor() as cursor:
+
+        row_count = cursor.execute( sql, ( idTittle ) )
+
+        if row_count == 0:
+
+            exist = False
+
+    return exist
+# # [BD] Consulta si un tittle (pelicula) existe
+# existeTittlePorId
+def existeMetadaDeTittle( tconst ):
 
     exist = True
 
@@ -73,6 +89,25 @@ def existeTittlePorId( tconst ):
 
     return exist
 
+
+#existeListTittleList
+def existeAsociacionListaTittle(id_list, id_tittlelist):
+
+    exist = True
+
+    sql  = "SELECT * FROM list_tittlelist where id_list =%s AND id_tittlelist =%s"
+
+    with conn.cursor() as cursor:
+
+        row_count = cursor.execute( sql, ( id_list, id_tittlelist ) )
+
+        if row_count == 0:
+
+            exist = False
+
+    return exist
+    
+#================================================INSERTAR=======================================================
 # # [BD] Insertar información descriptiva de una lista
 
 def instertarLista( name, link, metadata, idImdb ):
@@ -89,22 +124,7 @@ def instertarLista( name, link, metadata, idImdb ):
 
         conn.commit()
 
-def existeListTittleList(id_list, id_tittlelist):
 
-    exist = True
-
-    sql  = "SELECT * FROM list_tittlelist where id_list =%s AND id_tittlelist =%s"
-
-    with conn.cursor() as cursor:
-
-        row_count = cursor.execute( sql, ( id_list, id_tittlelist ) )
-
-        if row_count == 0:
-
-            exist = False
-
-    return exist
-    
 # # [BD] Inserta asosiciaion pelicula-lista (tabla n:n)
 
 def instertarListTittleList( id_list, id_tittlelist):
@@ -139,24 +159,77 @@ def instertarTittleList( tconst, f_created, f_modified, description, name_tittle
 
         conn.commit()
 
+#================================================OBTENER=======================================================
 # # [BD] OBTENGO TODAS LAS PELICULAS DE UNA LISTA
 
-def obtenerTituloDeLista(idList):
+def obtenerTituloDesdeLista(idList):
 
-    sql  = " SELECT * FROM list_tittlelist WHERE id_list = %s "
-
+    sql  = " SELECT id_tittlelist FROM list_tittlelist  where id_list = %s "
+    result=[]
     with conn.cursor() as cursor:
 
-        result = cursor.execute( sql, ( idList ) )
+        resultAux = cursor.execute( sql, ( idList ) )
 
         if result == 0:
 
             return -1
 
-        result= cursor.fetchall()
+        resultAux= cursor.fetchall()
+
+        for i in resultAux:
+            for j in i:
+                result.append(j)
 
     return result
 
+
+# # [BD] OBTENGO TODAS LAS LISTAS DE UNA PELICULA
+
+def obtenerListasDesdePelicula(idTittle):
+
+    sql  = " SELECT id_list FROM list_tittlelist  where id_tittlelist= %s "
+    result=[]
+    with conn.cursor() as cursor:
+
+        resultAux = cursor.execute( sql, ( idTittle ) )
+
+        if result == 0:
+
+            return -1
+
+        resultAux= cursor.fetchall()
+
+        for i in resultAux:
+            for j in i:
+                result.append(j)
+
+    return result
+
+def obtenerNombresPeliculas(idTittle):
+    
+    result= []
+
+    if isinstance(idTittle,list ):
+        for tittle in idTittle:
+                result.append(obtenerNombresPeliculas(tittle))
+    else:
+
+        sql  = " select name_tittle from tittle_list where tconst= %s"
+
+        with conn.cursor() as cursor:
+
+            result = cursor.execute( sql, ( idTittle ) )
+
+            if result == 0:
+
+                return -1
+
+            result= cursor.fetchall()
+
+
+    return result
+
+#================================================MISCELANEOS=======================================================
 # # [BD] Buscar si una pelicula dentro de una lista existe
 
 def validarPeliculaEnLista( idList, idTitleList ):

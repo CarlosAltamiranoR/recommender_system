@@ -64,7 +64,7 @@ def compararDosListas( originTitles, endTitle):
     
     for oTitle in originTitles: 
             
-        if validarPeliculaEnLista( endTitle  , oTitle ):                    
+        if existeAsociacionListaTittle( endTitle  , oTitle ):                    
 
             #result.append( 1 )
             print("oTitle: ", oTitle)

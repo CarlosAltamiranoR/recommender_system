@@ -20,12 +20,11 @@ if __name__ == '__main__':
     
     originList = "ls096276650" #lista del usuario u con peliculas que encuentra similares
  
-    startMetadataListProcess( "tt0111161", 2, None )
+    #startMetadataListProcess( "tt0111161", None )
+    startMetadataListProcess( originList, endList )
+    #modelo("ls023589784","ls033953605")
 
-    S = 40
-    #sub = getTotalSub(originList)
-    #L=
-    #n=
+
     
   
 
